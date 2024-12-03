@@ -40,8 +40,8 @@ EvosMovesPointerTable:
 	dw BlastoiseEvosMoves
 	dw PinsirEvosMoves
 	dw TangelaEvosMoves
-	dw MissingNo1FEvosMoves
-	dw MissingNo20EvosMoves
+	dw CorupcakeEvosMoves ; (CAP)
+	dw GargoyleEvosMoves ; (CAP)
 	dw GrowlitheEvosMoves
 	dw OnixEvosMoves
 	dw FearowEvosMoves
@@ -59,24 +59,24 @@ EvosMovesPointerTable:
 	dw PsyduckEvosMoves
 	dw DrowzeeEvosMoves
 	dw GolemEvosMoves
-	dw MissingNo32EvosMoves
+	dw PhantomEvosMoves ; (CAP)
 	dw MagmarEvosMoves
-	dw MissingNo34EvosMoves
+	dw MandrelecEvosMoves ; (CAP)
 	dw ElectabuzzEvosMoves
 	dw MagnetonEvosMoves
 	dw KoffingEvosMoves
-	dw MissingNo38EvosMoves
+	dw PineguinEvosMoves ; (CAP)
 	dw MankeyEvosMoves
 	dw SeelEvosMoves
 	dw DiglettEvosMoves
 	dw TaurosEvosMoves
-	dw MissingNo3DEvosMoves
-	dw MissingNo3EEvosMoves
+	dw ProbosicleEvosMoves ; (CAP)
+	dw PrevoSparoEvosMoves ; (UNF)
 	dw MissingNo3FEvosMoves
 	dw FarfetchdEvosMoves
 	dw VenonatEvosMoves
 	dw DragoniteEvosMoves
-	dw MissingNo43EvosMoves
+	dw PinePrevoEvosMoves ; (UNF)
 	dw MissingNo44EvosMoves
 	dw MissingNo45EvosMoves
 	dw DoduoEvosMoves
@@ -136,7 +136,7 @@ EvosMovesPointerTable:
 	dw MetapodEvosMoves
 	dw ButterfreeEvosMoves
 	dw MachampEvosMoves
-	dw MissingNo7FEvosMoves
+	dw SparophimEvosMoves ; (CAP)
 	dw GolduckEvosMoves
 	dw HypnoEvosMoves
 	dw GolbatEvosMoves
@@ -547,17 +547,31 @@ TangelaEvosMoves:
 	db 49, GROWTH
 	db 0
 
-MissingNo1FEvosMoves:
+CorupcakeEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 0
+	db 16, SMOKESCREEN
+	db 34, CONFUSE_RAY
+	db 36, SUGAR_RUSH ; (SIG, need to implement.)
+	db 40, LICK
+	db 42, FIRE_SPIN
+	db 43, SCREECH
+	db 47, HAZE
+	db 58, THRASH
+	db 0 ; (CAP)
 
-MissingNo20EvosMoves:
+GargoyleEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 0
+	db 32, KARATE_CHOP
+	db 42, SUPERSONIC
+	db 44, MARBLE_FIST ; (SIG, need to implement.)
+	db 57, RAZOR_WIND
+	db 67, ROCK_SLIDE
+	db 70, SUBMISSION
+	db 0 ; (CAP)
 
 GrowlitheEvosMoves:
 ; Evolutions
@@ -761,11 +775,15 @@ GolemEvosMoves:
 	db 43, EXPLOSION
 	db 0
 
-MissingNo32EvosMoves:
+PhantomEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 0
+	db 30, CONFUSE_RAY ; (Added in a balance patch, no level listed, chose 30.)
+	db 40, HYPNOSIS ; (Added in a balance patch, no level listed, chose 40.)
+	db 50, FIRE_SPIN
+	db 55, FLAMETHROWER
+	db 0 ; (CAP)
 
 MagmarEvosMoves:
 ; Evolutions
@@ -779,11 +797,17 @@ MagmarEvosMoves:
 	db 55, FLAMETHROWER
 	db 0
 
-MissingNo34EvosMoves:
+MandrelecEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 0
+	db 6, BITE
+	db 17, SCRATCH
+	db 24, THUNDER_WAVE
+	db 30, FOCUS_ENERGY
+	db 36, LIGHT_SCREEN
+	db 42, THUNDER
+	db 0 ; (CAP)
 
 ElectabuzzEvosMoves:
 ; Evolutions
@@ -820,11 +844,18 @@ KoffingEvosMoves:
 	db 48, EXPLOSION
 	db 0
 
-MissingNo38EvosMoves:
+PineguinEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 0
+	db 13, WING_ATTACK
+	db 21, STUN_SPORE
+	db 29, PIN_MISSILE
+	db 31, CAMOUFLAGE ; (SIG, need to implement.)
+	db 33, AURORA_BEAM
+	db 41, RAZOR_LEAF
+	db 51, MIST
+	db 0 ; (CAP)
 
 MankeyEvosMoves:
 ; Evolutions
@@ -873,17 +904,24 @@ TaurosEvosMoves:
 	db 51, TAKE_DOWN
 	db 0
 
-MissingNo3DEvosMoves:
+ProbosicleEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 0
+	db 16, MEGA_DRAIN
+	db 21, AURORA_BEAM
+	db 34, SPIKE_CANNON
+	db 36, SLASH
+	db 39, ICICLE ; (SIG, need to implement.)
+	db 51, MIST
+	db 54, HAZE
+	db 0 ; (CAP)
 
-MissingNo3EEvosMoves:
+PrevoSparoEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 0
+	db 0 ; (UNF)
 
 MissingNo3FEvosMoves:
 ; Evolutions
@@ -926,11 +964,11 @@ DragoniteEvosMoves:
 	db 60, HYPER_BEAM
 	db 0
 
-MissingNo43EvosMoves:
+PinePrevoEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 0
+	db 0 ; (UNF)
 
 MissingNo44EvosMoves:
 ; Evolutions
@@ -1512,11 +1550,16 @@ MachampEvosMoves:
 	db 52, SUBMISSION
 	db 0
 
-MissingNo7FEvosMoves:
+SparophimEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 0
+	db 34, DRILL_PECK
+	db 39, PSYBEAM
+	db 46, SUPERSONIC
+	db 53, AGILITY
+	db 60, SKY_ATTACK
+	db 0 ; (CAP)
 
 GolduckEvosMoves:
 ; Evolutions
