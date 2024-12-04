@@ -30,8 +30,8 @@ MonsterNames::
 	db "BLASTOISE@"
 	db "PINSIR@@@@"
 	db "TANGELA@@@"
-	db "MISSINGNO."
-	db "MISSINGNO."
+	db "CORUPCAKE@" ; (CAP)
+	db "GARGOYLE@@" ; (CAP)
 	db "GROWLITHE@"
 	db "ONIX@@@@@@"
 	db "FEAROW@@@@"
@@ -49,24 +49,24 @@ MonsterNames::
 	db "PSYDUCK@@@"
 	db "DROWZEE@@@"
 	db "GOLEM@@@@@"
-	db "MISSINGNO."
+	db "PHANTOM@@@" ; (CAP)
 	db "MAGMAR@@@@"
-	db "MISSINGNO."
+	db "MANDRELEC@" ; (CAP)
 	db "ELECTABUZZ"
 	db "MAGNETON@@"
 	db "KOFFING@@@"
-	db "MISSINGNO."
+	db "PHANTOM@@@" ; (CAP)
 	db "MANKEY@@@@"
 	db "SEEL@@@@@@"
 	db "DIGLETT@@@"
 	db "TAUROS@@@@"
-	db "MISSINGNO."
-	db "MISSINGNO."
+	db "PROBOSICLE" ; (CAP)
+	db "PREVOSPARO" ; (UNF)
 	db "MISSINGNO."
 	db "FARFETCH'D"
 	db "VENONAT@@@"
 	db "DRAGONITE@"
-	db "MISSINGNO."
+	db "PINEPREVO@" ; (UNF)
 	db "MISSINGNO."
 	db "MISSINGNO."
 	db "DODUO@@@@@"
@@ -126,7 +126,7 @@ MonsterNames::
 	db "METAPOD@@@"
 	db "BUTTERFREE"
 	db "MACHAMP@@@"
-	db "MISSINGNO."
+	db "SPAROPHIM@" ; (CAP)
 	db "GOLDUCK@@@"
 	db "HYPNO@@@@@"
 	db "GOLBAT@@@@"
