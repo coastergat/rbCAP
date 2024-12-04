@@ -298,6 +298,26 @@ _TangelaDexEntry::
 	next "shake as it walks"
 	dex
 
+_CorupcakeDexEntry::
+	text "Often given as"
+	next "birthday gifts,"
+	next "this #MON has"
+
+	page "a toxic bite that"
+	next "causes the skin to"
+	next "become cake-like." ; (CAP)
+	dex
+
+_GargoyleDexEntry::
+	text "Usually immobile,"
+	next "this #MON can"
+	next "fly at mach speed"
+
+	page "when it senses"
+	next "injustice"
+	next "nearby." ; (Added extra line to fit.) (CAP)
+	dex
+
 _GrowlitheDexEntry::
 	text "Very protective"
 	next "of its territory."
@@ -468,6 +488,16 @@ _GolemDexEntry::
 	next "without damage"
 	dex
 
+_PhantomDexEntry::
+	text "This #MON is"
+	next "the spirit of an"
+	next "ancient creature."
+
+	page "It's rumored to"
+	next "bring bad luck to"
+	next "those who see it." ; (Shortened to fit) (CAP)
+	dex
+
 _MagmarDexEntry::
 	text "Its body always"
 	next "burns with an"
@@ -476,6 +506,16 @@ _MagmarDexEntry::
 	page "enables it to"
 	next "hide perfectly"
 	next "among flames"
+	dex
+
+_MandrelecDexEntry::
+	text "This #MON uses"
+	next "its electricity"
+	next "to subdue and"
+
+	page "consume much"
+	next "larger foes,"
+	next "even GYARADOS." ; (Added to fit) (CAP)
 	dex
 
 _ElectabuzzDexEntry::
@@ -506,6 +546,16 @@ _KoffingDexEntry::
 	page "its body, it is"
 	next "prone to exploding"
 	next "without warning"
+	dex
+
+_PineguinDexEntry::
+	text "Many have been"
+	next "startled by this"
+	next "walking tree. One"
+
+	page "night, an entire"
+	next "forest dissapeared"
+	next "as they migrated." ; (Shortened to fit) (CAP)
 	dex
 
 _MankeyDexEntry::
@@ -546,6 +596,16 @@ _TaurosDexEntry::
 	page "while whipping its"
 	next "body with its"
 	next "long tails"
+	dex
+
+_ProbosicleDexEntry::
+	text "Fiercely"
+	next "territorial,"
+	next "PROBOSICLE will"
+
+	page "not let any"
+	next "other #MON"
+	next "enter its turf." ; (Lengthened to fit) (CAP)
 	dex
 
 _FarfetchdDexEntry::
@@ -1046,6 +1106,16 @@ _MachampDexEntry::
 	page "that can send the"
 	next "victim clear over"
 	next "the horizon"
+	dex
+
+_SparophimDexEntry::
+	text "It is rumored that"
+	next "this #MON came"
+	next "from a distant"
+
+	page "world. Its purpose"
+	next "is shrouded in"
+	next "mystery." ; (CAP)
 	dex
 
 _GolduckDexEntry::
