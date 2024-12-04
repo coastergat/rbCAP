@@ -16,7 +16,7 @@
 	; tm/hm learnset
 	tmhm RAZOR_WIND,   WHIRLWIND,    TOXIC,        BODY_SLAM,    TAKE_DOWN,    \
 	     DOUBLE_EDGE,  BUBBLEBEAM,   WATER_GUN,    ICE_BEAM,     BLIZZARD,     \
-	     HYPER_BEAM,   MEGA_DRAIN,   SOLAR_BEAM,   MIMIC,        DOUBLE_TEAM,  \
+	     HYPER_BEAM,   MEGA_DRAIN,   SOLARBEAM,    MIMIC,        DOUBLE_TEAM,  \
 	     REFLECT,      SUBSTITUTE
 	; end
 
