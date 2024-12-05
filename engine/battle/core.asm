@@ -372,11 +372,18 @@ MainInBattleLoop:
 	jr nz, .playerDidNotUseQuickAttack
 	ld a, [wEnemySelectedMove]
 	cp QUICK_ATTACK
+	ld a, [wPlayerSelectedMove]
+	cp MARBLE_FIST
+	jr nz, .playerDidNotUseQuickAttack
+	ld a, [wEnemySelectedMove]
+	cp MARBLE_FIST ; (This is spaghetti code and I don't know if it will work. I have to test.)
 	jr z, .compareSpeed  ; if both used Quick Attack
 	jp .playerMovesFirst ; if player used Quick Attack and enemy didn't
 .playerDidNotUseQuickAttack
 	ld a, [wEnemySelectedMove]
 	cp QUICK_ATTACK
+	jr z, .enemyMovesFirst ; if enemy used Quick Attack and player didn't
+	cp MARBLE_FIST
 	jr z, .enemyMovesFirst ; if enemy used Quick Attack and player didn't
 	ld a, [wPlayerSelectedMove]
 	cp COUNTER
