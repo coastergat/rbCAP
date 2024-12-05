@@ -178,6 +178,6 @@ Moves:
 	move SUGAR_RUSH,   SPECIAL_DOWN_SIDE_EFFECT,    80, POISON,        90, 15 ; (CAP)
 	move MARBLE_FIST,  NO_ADDITIONAL_EFFECT,        50, FIGHTING,     100, 30 ; (CAP) (Make sure to implement priority.)
 	move CAMOUFLAGE,   FLY_EFFECT,                  80, GRASS,        100, 10 ; (CAP)
-	move ICICLE,       NO_ADDITIONAL_EFFECT,        70, ICE,          100, 15 ; (CAP) (Make sure to implement priority.)
+	move ICICLE,       NO_ADDITIONAL_EFFECT,        70, ICE,          100, 15 ; (CAP) (Make sure to implement high crit.)
 	move STRUGGLE,     RECOIL_EFFECT,               50, NORMAL,       100, 10
 	assert_table_length NUM_ATTACKS
