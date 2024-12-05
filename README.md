@@ -6,7 +6,7 @@ I highly encourage that you check out the tier!
 
 You can play RBY CAP on [Dragon Heaven](http://petmodsdh.com/).
 
-Info for the CAPmons can be found on [this spreadsheet](https://docs.google.com/spreadsheets/d/1B4zGi6cBzuy3Vrfhz59VJsjdXtS1Bh60UFUOwzBmVGQ/edit?gid=955529693#gid=955529693).
+Info for the CAPmons can be found on [the wiki](https://github.com/coastergat/rbCAP/wiki) or [this spreadsheet](https://docs.google.com/spreadsheets/d/1B4zGi6cBzuy3Vrfhz59VJsjdXtS1Bh60UFUOwzBmVGQ/edit?gid=955529693#gid=955529693).
 
 # Credits
 
@@ -26,6 +26,9 @@ RBY CAP Artists:
 
 RBY CAP Dragon Heaven:
 - [Yoshiblaze](https://github.com/Yoshiblaze) - Added RBY CAP to DH
+
+RBY CAP Contributors:
+To be added.
 
 Special Thanks:
 - Pet Mods Staff - Approving RBY CAP
