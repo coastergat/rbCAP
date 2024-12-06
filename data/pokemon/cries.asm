@@ -61,7 +61,7 @@ CryData::
 	mon_cry SFX_CRY_06, $8F, $FF ; Electabuzz
 	mon_cry SFX_CRY_1C, $20, $C0 ; Magneton
 	mon_cry SFX_CRY_12, $E6, $DD ; Koffing
-	mon_cry SFX_CRY_00, $00, $00 ; Pineguin
+	mon_cry SFX_CRY_13, $50, $CB ; Pineguin (20 80 75, FINISHED)
 	mon_cry SFX_CRY_0A, $DD, $60 ; Mankey
 	mon_cry SFX_CRY_0C, $88, $C0 ; Seel
 	mon_cry SFX_CRY_0B, $AA, $01 ; Diglett
@@ -132,7 +132,7 @@ CryData::
 	mon_cry SFX_CRY_1C, $CC, $01 ; Metapod
 	mon_cry SFX_CRY_16, $77, $40 ; Butterfree
 	mon_cry SFX_CRY_1F, $08, $C0 ; Machamp
-	mon_cry SFX_CRY_11, $20, $10 ; Sparophim (To tweak)
+	mon_cry SFX_CRY_11, $24, $E4 ; Sparophim (18 36 100, FINISHED)
 	mon_cry SFX_CRY_21, $FF, $40 ; Golduck
 	mon_cry SFX_CRY_0D, $EE, $40 ; Hypno
 	mon_cry SFX_CRY_1D, $FA, $80 ; Golbat
