@@ -164,6 +164,10 @@ AttackAnimationPointers:
 	dw SuperFangAnim
 	dw SlashAnim
 	dw SubstituteAnim
+	dw SugarRushAnim
+	dw MarbleFistAnim
+	dw CamouflageAnim
+	dw IcicleAnim
 	dw StruggleAnim
 	assert_table_length NUM_ATTACKS
 	dw ShowPicAnim
@@ -246,6 +250,7 @@ DoubleSlapAnim:
 	battle_anim DOUBLESLAP, SUBANIM_0_STAR_TWICE, 0, 5
 	db -1 ; end
 
+MarbleFistAnim:
 CometPunchAnim:
 	battle_anim COMET_PUNCH, SUBANIM_0_STAR_THRICE, 0, 4
 	battle_anim COMET_PUNCH, SUBANIM_0_STAR_THRICE, 0, 4
@@ -403,6 +408,7 @@ WrapAnim:
 	battle_anim WRAP, SUBANIM_0_BIND, 0, 4
 	db -1 ; end
 
+SugarRushAnim:
 TakeDownAnim:
 	battle_anim LEECH_SEED, SE_MOVE_MON_HORIZONTALLY
 	battle_anim TAKE_DOWN, SE_DARK_SCREEN_FLASH
@@ -436,6 +442,7 @@ PoisonStingAnim:
 	battle_anim POISON_STING, SUBANIM_0_STAR, 0, 6
 	db -1 ; end
 
+IcicleAnim:
 TwineedleAnim:
 	battle_anim TWINEEDLE, SUBANIM_0_STAR_TWICE, 0, 5
 	battle_anim TWINEEDLE, SUBANIM_0_STAR_TWICE, 0, 5
@@ -719,6 +726,7 @@ FissureAnim:
 	battle_anim NO_MOVE, SE_SHAKE_SCREEN
 	db -1 ; end
 
+CamouflageAnim:
 DigAnim:
 	battle_anim DIG, SUBANIM_1_STAR_BIG_MOVING, 1, 6
 	battle_anim NO_MOVE, SE_SLIDE_MON_UP
