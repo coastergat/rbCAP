@@ -164,5 +164,9 @@ MoveNames::
 	li "SUPER FANG"
 	li "SLASH"
 	li "SUBSTITUTE"
+	li "SUGAR_RUSH" ; (CAP)
+	li "MARBLE_FIST" ; (CAP)
+	li "CAMOUFLAGE" ; (CAP)
+	li "ICICLE" ; (CAP)
 	li "STRUGGLE"
 	assert_list_length NUM_ATTACKS
