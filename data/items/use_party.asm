@@ -14,6 +14,7 @@ UsableItems_PartyMenu:
 	db FIRE_STONE
 	db THUNDER_STONE
 	db WATER_STONE
+	db LINKING_CORD
 	db HP_UP
 	db PROTEIN
 	db IRON
