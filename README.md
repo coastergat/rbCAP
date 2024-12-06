@@ -8,6 +8,44 @@ You can play RBY CAP on [Dragon Heaven](http://petmodsdh.com/).
 
 Info for the CAPmons can be found on [the wiki](https://github.com/coastergat/rbCAP/wiki) or [this spreadsheet](https://docs.google.com/spreadsheets/d/1B4zGi6cBzuy3Vrfhz59VJsjdXtS1Bh60UFUOwzBmVGQ/edit?gid=955529693#gid=955529693).
 
+# What's New?
+Of course, being called Create-a-Pokémon, RBY CAP adds quite a few new Pokémon to Gen 1.
+
+So far, there are seven finished CAPmons, all of which are featured in this ROM hack:
+- [Corupcake](https://github.com/coastergat/rbCAP/wiki/Corupcake)
+- [Gargoyle](https://github.com/coastergat/rbCAP/wiki/Gargoyle)
+- [Phantom](https://github.com/coastergat/rbCAP/wiki/Phantom)
+- [Mandrelec](https://github.com/coastergat/rbCAP/wiki/Mandrelec)
+- [Pineguin](https://github.com/coastergat/rbCAP/wiki/Pineguin)
+- [Probosicle](https://github.com/coastergat/rbCAP/wiki/Probosicle)
+- [Sparophim](https://github.com/coastergat/rbCAP/wiki/Sparophim)
+<br/>
+
+These CAPmons have also brought their own signature moves to shake up the competitive scene:
+- [Sugar Rush](https://github.com/coastergat/rbCAP/wiki/Sugar-Rush)
+- [Marble Fist](https://github.com/coastergat/rbCAP/wiki/Marble-Fist)
+- [Camouflage](https://github.com/coastergat/rbCAP/wiki/Camouflage)
+- [Icicle](https://github.com/coastergat/rbCAP/wiki/Icicle)
+<br/>
+
+RBY CAP features a variety of QoL changes:
+- Trade evolutions are now tied to the Linking Cord
+- Infinite buyable TMs and evolution stones
+- Move deleter and relearner
+- Hyper training
+- One-time choice Pokémon (ie the hitmons and starters) can be obtained in the wild
+
+
+RBY CAP is a competitive format, the majority of these changes were made to make teambuilding as efficient and accessible as possible.
+<br/><br/>
+
+
+
+Extra Features:
+- Uses Yellow's sprites and color palettes
+- All CAP creators featured in the game credits!
+- More to be added...
+
 # Credits
 
 ROM hack made by [Coop](https://github.com/coastergat)
