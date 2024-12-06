@@ -14,10 +14,10 @@
 	db GROWTH_MEDIUM_SLOW ; growth rate
 
 	; tm/hm learnset
-	tmhm TOXIC,        HORN_DRILL,   TAKE_DOWN,    DOUBLE_EDGE,  ICE_BEAM,     \
-	     BLIZZARD,     HYPER_BEAM,   SEISMIC_TOSS, RAGE,         MEGA_DRAIN,   \
-	     MIMIC,        DOUBLE_TEAM,  BIDE,         SKULL_BASH,   REST,         \
-	     SUBSTITUTE,   CUT
+	tmhm TOXIC,        BODY_SLAM,    HORN_DRILL,   TAKE_DOWN,    DOUBLE_EDGE,  \
+	     ICE_BEAM,     BLIZZARD,     HYPER_BEAM,   SEISMIC_TOSS, RAGE,         \
+	     MEGA_DRAIN,   MIMIC,        DOUBLE_TEAM,  BIDE,         SKULL_BASH,   \
+	     REST,         SUBSTITUTE,   CUT
 	; end
 
 	db 0 ; padding
