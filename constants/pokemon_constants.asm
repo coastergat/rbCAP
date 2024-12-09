@@ -73,7 +73,7 @@
 	const FARFETCHD          ; $40
 	const VENONAT            ; $41
 	const DRAGONITE          ; $42
-	const PINEPREVO          ; $43 (Cactormus, bird-like, 0 128 16) (CAP)
+	const SPRIGUIN           ; $43 (Cactormus, bird-like, 0 128 16) (CAP)
 	const_skip               ; $44
 	const_skip               ; $45 (Bittybat, 29 244 64)
 	const DODUO              ; $46
