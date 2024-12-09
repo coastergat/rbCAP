@@ -76,7 +76,7 @@ EvosMovesPointerTable:
 	dw FarfetchdEvosMoves
 	dw VenonatEvosMoves
 	dw DragoniteEvosMoves
-	dw PinePrevoEvosMoves ; (UNF)
+	dw SpriguinEvosMoves ; (UNF)
 	dw MissingNo44EvosMoves
 	dw MissingNo45EvosMoves
 	dw DoduoEvosMoves
@@ -967,7 +967,7 @@ DragoniteEvosMoves:
 	db 60, HYPER_BEAM
 	db 0
 
-PinePrevoEvosMoves:
+SpriguinEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
