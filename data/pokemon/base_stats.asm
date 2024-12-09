@@ -77,7 +77,7 @@ INCLUDE "data/pokemon/base_stats/tentacruel.asm"
 INCLUDE "data/pokemon/base_stats/geodude.asm"
 INCLUDE "data/pokemon/base_stats/graveler.asm"
 INCLUDE "data/pokemon/base_stats/golem.asm"
-INCLUDE "data/pokemon/base_stats/pineprevo.asm" ; (UNF)
+INCLUDE "data/pokemon/base_stats/spriguin.asm" ; (UNF)
 INCLUDE "data/pokemon/base_stats/pineguin.asm" ; (CAP)
 INCLUDE "data/pokemon/base_stats/ponyta.asm"
 INCLUDE "data/pokemon/base_stats/rapidash.asm"
