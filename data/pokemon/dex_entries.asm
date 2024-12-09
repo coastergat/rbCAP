@@ -66,7 +66,7 @@ PokedexEntryPointers:
 	dw FarfetchdDexEntry
 	dw VenonatDexEntry
 	dw DragoniteDexEntry
-	dw PinePrevoDexEntry ; (UNF)
+	dw SpriguinDexEntry ; (UNF)
 	dw MissingNoDexEntry
 	dw MissingNoDexEntry
 	dw DoduoDexEntry
