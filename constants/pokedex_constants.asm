@@ -81,7 +81,7 @@
 	const DEX_GEODUDE    ; 74
 	const DEX_GRAVELER   ; 75
 	const DEX_GOLEM      ; 76
-	const DEX_PINEPREVO  ; CAP UNF
+	const DEX_SPRIGUIN   ; CAP UNF
 	const DEX_PINEGUIN   ; CAP TBD
 	const DEX_PONYTA     ; 77
 	const DEX_RAPIDASH   ; 78
