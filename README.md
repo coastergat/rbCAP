@@ -16,6 +16,7 @@ So far, there are seven finished CAPmons, all of which are featured in this ROM 
 - [Gargoyle](https://github.com/coastergat/rbCAP/wiki/Gargoyle)
 - [Phantom](https://github.com/coastergat/rbCAP/wiki/Phantom)
 - [Mandrelec](https://github.com/coastergat/rbCAP/wiki/Mandrelec)
+- [Spriguin](https://github.com/coastergat/rbCAP/wiki/Spriguin)
 - [Pineguin](https://github.com/coastergat/rbCAP/wiki/Pineguin)
 - [Probosicle](https://github.com/coastergat/rbCAP/wiki/Probosicle)
 - [Sparophim](https://github.com/coastergat/rbCAP/wiki/Sparophim)
