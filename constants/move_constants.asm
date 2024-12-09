@@ -170,7 +170,11 @@
 	const SUPER_FANG   ; a2
 	const SLASH        ; a3
 	const SUBSTITUTE   ; a4
-	const STRUGGLE     ; a5
+	const SUGAR_RUSH   ; a5
+	const MARBLE_FIST  ; a6
+	const CAMOUFLAGE   ; a7
+	const ICICLE       ; a8
+	const STRUGGLE     ; a9
 DEF NUM_ATTACKS EQU const_value - 1
 
 	; Moves do double duty as animation identifiers.
