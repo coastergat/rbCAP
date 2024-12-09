@@ -1,4 +1,4 @@
-	db DEX_PINEGUIN ; pokedex id
+	db DEX_SPRIGUIN ; pokedex id
 
 	db 120,  70,  40,  80,  95
 	;   hp  atk  def  spd  spc
@@ -8,7 +8,7 @@
 	db 204 ; base exp 
 
 	INCBIN "gfx/pokemon/front/pineguin.pic", 0, 1 ; sprite dimensions
-	dw PineguinPicFront, PineguinPicBack
+	dw SpriguinPicFront, SpriguinPicBack
 
 	db ABSORB, PECK, LEECH_SEED, NO_MOVE ; level 1 learnset
 	db GROWTH_MEDIUM_SLOW ; growth rate
