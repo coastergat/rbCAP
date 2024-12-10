@@ -164,8 +164,8 @@ MoveNames::
 	li "SUPER FANG"
 	li "SLASH"
 	li "SUBSTITUTE"
-	li "SUGAR_RUSH" ; (CAP)
-	li "MARBLE_FIST" ; (CAP)
+	li "SUGAR RUSH" ; (CAP)
+	li "MARBLE FIST" ; (CAP)
 	li "CAMOUFLAGE" ; (CAP)
 	li "ICICLE" ; (CAP)
 	li "STRUGGLE"
