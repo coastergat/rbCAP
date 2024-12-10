@@ -608,6 +608,16 @@ _ProbosicleDexEntry::
 	next "enter its turf." ; (Lengthened to fit) (CAP)
 	dex
 
+_PrevoSparoDexEntry::
+	text "Fiercely"
+	next "territorial,"
+	next "PROBOSICLE will"
+
+	page "not let any"
+	next "other #MON"
+	next "enter its turf." ; (UNF)
+	dex
+
 _FarfetchdDexEntry::
 	text "The sprig of"
 	next "green onions it"
@@ -636,6 +646,16 @@ _DragoniteDexEntry::
 	page "Its intelligence"
 	next "is said to match"
 	next "that of humans"
+	dex
+
+_SpriguinDexEntry::
+	text "An extremely"
+	next "rarely seen"
+	next "marine #MON."
+
+	page "Its intelligence"
+	next "is said to match"
+	next "that of humans" ; (UNF)
 	dex
 
 _DoduoDexEntry::
