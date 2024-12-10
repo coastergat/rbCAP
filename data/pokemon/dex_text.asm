@@ -305,7 +305,7 @@ _CorupcakeDexEntry::
 
 	page "a toxic bite that"
 	next "causes the skin to"
-	next "become cake-like." ; (CAP)
+	next "become cake-like" ; (CAP)
 	dex
 
 _GargoyleDexEntry::
@@ -315,7 +315,7 @@ _GargoyleDexEntry::
 
 	page "when it senses"
 	next "injustice"
-	next "nearby." ; (Added extra line to fit.) (CAP)
+	next "nearby" ; (Added extra line to fit.) (CAP)
 	dex
 
 _GrowlitheDexEntry::
@@ -495,7 +495,7 @@ _PhantomDexEntry::
 
 	page "It's rumored to"
 	next "bring bad luck to"
-	next "those who see it." ; (Shortened to fit) (CAP)
+	next "those who see it" ; (Shortened to fit) (CAP)
 	dex
 
 _MagmarDexEntry::
@@ -515,7 +515,7 @@ _MandrelecDexEntry::
 
 	page "consume much"
 	next "larger foes,"
-	next "even GYARADOS." ; (Added to fit) (CAP)
+	next "even GYARADOS" ; (Added to fit) (CAP)
 	dex
 
 _ElectabuzzDexEntry::
@@ -555,7 +555,7 @@ _PineguinDexEntry::
 
 	page "night, an entire"
 	next "forest dissapeared"
-	next "as they migrated." ; (Shortened to fit) (CAP)
+	next "as they migrated" ; (Shortened to fit) (CAP)
 	dex
 
 _MankeyDexEntry::
@@ -605,7 +605,7 @@ _ProbosicleDexEntry::
 
 	page "not let any"
 	next "other #MON"
-	next "enter its turf." ; (Lengthened to fit) (CAP)
+	next "enter its turf" ; (Lengthened to fit) (CAP)
 	dex
 
 _PrevoSparoDexEntry::
@@ -615,7 +615,7 @@ _PrevoSparoDexEntry::
 
 	page "not let any"
 	next "other #MON"
-	next "enter its turf." ; (UNF)
+	next "enter its turf" ; (UNF)
 	dex
 
 _FarfetchdDexEntry::
@@ -1135,7 +1135,7 @@ _SparophimDexEntry::
 
 	page "world. Its purpose"
 	next "is shrouded in"
-	next "mystery." ; (CAP)
+	next "mystery" ; (CAP)
 	dex
 
 _GolduckDexEntry::
