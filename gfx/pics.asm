@@ -130,12 +130,12 @@ FarfetchdPicFront::   INCBIN "gfx/pokemon/front/farfetchd.pic"
 FarfetchdPicBack::    INCBIN "gfx/pokemon/back/farfetchdb.pic"
 VenonatPicFront::     INCBIN "gfx/pokemon/front/venonat.pic"
 VenonatPicBack::      INCBIN "gfx/pokemon/back/venonatb.pic"
-DragonitePicFront::   INCBIN "gfx/pokemon/front/dragonite.pic"
-DragonitePicBack::    INCBIN "gfx/pokemon/back/dragoniteb.pic"
 
 
 SECTION "Pics 3", ROMX
 
+DragonitePicFront::   INCBIN "gfx/pokemon/front/dragonite.pic"
+DragonitePicBack::    INCBIN "gfx/pokemon/back/dragoniteb.pic"
 SpriguinPicFront::    INCBIN "gfx/pokemon/front/spriguin.pic" ; (CAP)
 SpriguinPicBack::     INCBIN "gfx/pokemon/back/spriguinb.pic"
 DoduoPicFront::       INCBIN "gfx/pokemon/front/doduo.pic" ; (DOWN)
