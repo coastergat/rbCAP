@@ -266,6 +266,8 @@ WeezingPicFront::      INCBIN "gfx/pokemon/front/weezing.pic"
 WeezingPicBack::       INCBIN "gfx/pokemon/back/weezingb.pic"
 PersianPicFront::      INCBIN "gfx/pokemon/front/persian.pic"
 PersianPicBack::       INCBIN "gfx/pokemon/back/persianb.pic"
+MarowakPicFront::      INCBIN "gfx/pokemon/front/marowak.pic"
+MarowakPicBack::       INCBIN "gfx/pokemon/back/marowakb.pic"
 
 RedPicBack::           INCBIN "gfx/player/redb.pic"
 OldManPicBack::        INCBIN "gfx/battle/oldmanb.pic"
@@ -273,8 +275,6 @@ OldManPicBack::        INCBIN "gfx/battle/oldmanb.pic"
 
 SECTION "Pics 5", ROMX
 
-MarowakPicFront::      INCBIN "gfx/pokemon/front/marowak.pic"
-MarowakPicBack::       INCBIN "gfx/pokemon/back/marowakb.pic"
 HaunterPicFront::      INCBIN "gfx/pokemon/front/haunter.pic"
 HaunterPicBack::       INCBIN "gfx/pokemon/back/haunterb.pic"
 AbraPicFront::         INCBIN "gfx/pokemon/front/abra.pic"
