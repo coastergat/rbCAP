@@ -372,6 +372,7 @@ HeadbuttAnim:
 	battle_anim HEADBUTT, SUBANIM_1_STAR_BIG, 1, 6
 	db -1 ; end
 
+IcicleAnim:
 HornAttackAnim:
 	battle_anim HORN_ATTACK, SUBANIM_0_HORN_JAB_TWICE, 0, 6
 	battle_anim NO_MOVE, SUBANIM_1_STAR_BIG, 1, 6
@@ -442,7 +443,6 @@ PoisonStingAnim:
 	battle_anim POISON_STING, SUBANIM_0_STAR, 0, 6
 	db -1 ; end
 
-IcicleAnim:
 TwineedleAnim:
 	battle_anim TWINEEDLE, SUBANIM_0_STAR_TWICE, 0, 5
 	battle_anim TWINEEDLE, SUBANIM_0_STAR_TWICE, 0, 5
