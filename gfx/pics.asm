@@ -337,10 +337,6 @@ VileplumePicFront::    INCBIN "gfx/pokemon/front/vileplume.pic"
 VileplumePicBack::     INCBIN "gfx/pokemon/back/vileplumeb.pic"
 BellsproutPicFront::   INCBIN "gfx/pokemon/front/bellsprout.pic"
 BellsproutPicBack::    INCBIN "gfx/pokemon/back/bellsproutb.pic"
-WeepinbellPicFront::   INCBIN "gfx/pokemon/front/weepinbell.pic"
-WeepinbellPicBack::    INCBIN "gfx/pokemon/back/weepinbellb.pic"
-VictreebelPicFront::   INCBIN "gfx/pokemon/front/victreebel.pic"
-VictreebelPicBack::    INCBIN "gfx/pokemon/back/victreebelb.pic"
 
 
 SECTION "Pics 6", ROMX
@@ -391,3 +387,11 @@ LoreleiPic::       INCBIN "gfx/trainers/lorelei.pic"
 ChannelerPic::     INCBIN "gfx/trainers/channeler.pic"
 AgathaPic::        INCBIN "gfx/trainers/agatha.pic"
 LancePic::         INCBIN "gfx/trainers/lance.pic"
+
+
+SECTION "Pics 7", ROMX
+
+WeepinbellPicFront::   INCBIN "gfx/pokemon/front/weepinbell.pic"
+WeepinbellPicBack::    INCBIN "gfx/pokemon/back/weepinbellb.pic"
+VictreebelPicFront::   INCBIN "gfx/pokemon/front/victreebel.pic"
+VictreebelPicBack::    INCBIN "gfx/pokemon/back/victreebelb.pic"
