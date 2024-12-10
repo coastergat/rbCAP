@@ -59,7 +59,7 @@ PinsirPicBack::       INCBIN "gfx/pokemon/back/pinsirb.pic"
 TangelaPicFront::     INCBIN "gfx/pokemon/front/tangela.pic"
 TangelaPicBack::      INCBIN "gfx/pokemon/back/tangelab.pic"
 CorupcakePicFront::   INCBIN "gfx/pokemon/front/corupcake.pic" ; (CAP)
-CorupcakePicBack::    INCBIN "gfx/pokemon/front/corupcakeb.pic"
+CorupcakePicBack::    INCBIN "gfx/pokemon/back/corupcakeb.pic"
 
 
 SECTION "Pics 2", ROMX
