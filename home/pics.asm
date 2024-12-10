@@ -34,7 +34,7 @@ UncompressMonSprite::
 	ld a, BANK("Pics 2")
 	jr c, .GotBank
 	ld a, b
-	cp PARAS + 1
+	cp POLIWRATH + 1
 	ld a, BANK("Pics 3")
 	jr c, .GotBank
 	ld a, b
