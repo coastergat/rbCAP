@@ -202,16 +202,16 @@ ZubatPicFront::       INCBIN "gfx/pokemon/front/zubat.pic"
 ZubatPicBack::        INCBIN "gfx/pokemon/back/zubatb.pic"
 EkansPicFront::       INCBIN "gfx/pokemon/front/ekans.pic"
 EkansPicBack::        INCBIN "gfx/pokemon/back/ekansb.pic"
-ParasPicFront::       INCBIN "gfx/pokemon/front/paras.pic"
-ParasPicBack::        INCBIN "gfx/pokemon/back/parasb.pic"
-PoliwhirlPicFront::   INCBIN "gfx/pokemon/front/poliwhirl.pic"
-PoliwhirlPicBack::    INCBIN "gfx/pokemon/back/poliwhirlb.pic"
 
 FossilKabutopsPic::   INCBIN "gfx/pokemon/front/fossilkabutops.pic"
 
 
 SECTION "Pics 4", ROMX
 
+ParasPicFront::       INCBIN "gfx/pokemon/front/paras.pic"
+ParasPicBack::        INCBIN "gfx/pokemon/back/parasb.pic"
+PoliwhirlPicFront::   INCBIN "gfx/pokemon/front/poliwhirl.pic"
+PoliwhirlPicBack::    INCBIN "gfx/pokemon/back/poliwhirlb.pic"
 PoliwrathPicFront::   INCBIN "gfx/pokemon/front/poliwrath.pic"
 PoliwrathPicBack::    INCBIN "gfx/pokemon/back/poliwrathb.pic"
 WeedlePicFront::      INCBIN "gfx/pokemon/front/weedle.pic"
@@ -266,10 +266,6 @@ WeezingPicFront::      INCBIN "gfx/pokemon/front/weezing.pic"
 WeezingPicBack::       INCBIN "gfx/pokemon/back/weezingb.pic"
 PersianPicFront::      INCBIN "gfx/pokemon/front/persian.pic"
 PersianPicBack::       INCBIN "gfx/pokemon/back/persianb.pic"
-MarowakPicFront::      INCBIN "gfx/pokemon/front/marowak.pic"
-MarowakPicBack::       INCBIN "gfx/pokemon/back/marowakb.pic"
-HaunterPicFront::      INCBIN "gfx/pokemon/front/haunter.pic"
-HaunterPicBack::       INCBIN "gfx/pokemon/back/haunterb.pic"
 
 RedPicBack::           INCBIN "gfx/player/redb.pic"
 OldManPicBack::        INCBIN "gfx/battle/oldmanb.pic"
@@ -277,6 +273,10 @@ OldManPicBack::        INCBIN "gfx/battle/oldmanb.pic"
 
 SECTION "Pics 5", ROMX
 
+MarowakPicFront::      INCBIN "gfx/pokemon/front/marowak.pic"
+MarowakPicBack::       INCBIN "gfx/pokemon/back/marowakb.pic"
+HaunterPicFront::      INCBIN "gfx/pokemon/front/haunter.pic"
+HaunterPicBack::       INCBIN "gfx/pokemon/back/haunterb.pic"
 AbraPicFront::         INCBIN "gfx/pokemon/front/abra.pic"
 AbraPicBack::          INCBIN "gfx/pokemon/back/abrab.pic"
 AlakazamPicFront::     INCBIN "gfx/pokemon/front/alakazam.pic"
