@@ -132,11 +132,12 @@ VenonatPicFront::     INCBIN "gfx/pokemon/front/venonat.pic"
 VenonatPicBack::      INCBIN "gfx/pokemon/back/venonatb.pic"
 DragonitePicFront::   INCBIN "gfx/pokemon/front/dragonite.pic"
 DragonitePicBack::    INCBIN "gfx/pokemon/back/dragoniteb.pic"
-SpriguinPicFront::    INCBIN "gfx/pokemon/front/spriguin.pic" ; (CAP)
-SpriguinPicBack::     INCBIN "gfx/pokemon/back/spriguinb.pic"
+
 
 SECTION "Pics 3", ROMX
 
+SpriguinPicFront::    INCBIN "gfx/pokemon/front/spriguin.pic" ; (CAP)
+SpriguinPicBack::     INCBIN "gfx/pokemon/back/spriguinb.pic"
 DoduoPicFront::       INCBIN "gfx/pokemon/front/doduo.pic" ; (DOWN)
 DoduoPicBack::        INCBIN "gfx/pokemon/back/doduob.pic" ; 
 PoliwagPicFront::     INCBIN "gfx/pokemon/front/poliwag.pic" ; (DOWN)
@@ -205,14 +206,14 @@ ParasPicFront::       INCBIN "gfx/pokemon/front/paras.pic"
 ParasPicBack::        INCBIN "gfx/pokemon/back/parasb.pic"
 PoliwhirlPicFront::   INCBIN "gfx/pokemon/front/poliwhirl.pic"
 PoliwhirlPicBack::    INCBIN "gfx/pokemon/back/poliwhirlb.pic"
-PoliwrathPicFront::   INCBIN "gfx/pokemon/front/poliwrath.pic"
-PoliwrathPicBack::    INCBIN "gfx/pokemon/back/poliwrathb.pic"
 
 FossilKabutopsPic::   INCBIN "gfx/pokemon/front/fossilkabutops.pic"
 
 
 SECTION "Pics 4", ROMX
 
+PoliwrathPicFront::   INCBIN "gfx/pokemon/front/poliwrath.pic"
+PoliwrathPicBack::    INCBIN "gfx/pokemon/back/poliwrathb.pic"
 WeedlePicFront::      INCBIN "gfx/pokemon/front/weedle.pic"
 WeedlePicBack::       INCBIN "gfx/pokemon/back/weedleb.pic"
 KakunaPicFront::      INCBIN "gfx/pokemon/front/kakuna.pic"
