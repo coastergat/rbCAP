@@ -30,7 +30,7 @@ UncompressMonSprite::
 	ld a, BANK("Pics 1")
 	jr c, .GotBank
 	ld a, b
-	cp DRAGONITE + 1
+	cp VENONAT + 1
 	ld a, BANK("Pics 2")
 	jr c, .GotBank
 	ld a, b
