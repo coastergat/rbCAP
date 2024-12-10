@@ -652,11 +652,11 @@ DragoniteDexEntry:
 	text_far _DragoniteDexEntry
 	text_end
 
-PinePrevoDexEntry:
+SpriguinDexEntry:
 	db "UNF@"
 	db 9,9
 	dw 9999
-	text_far _PinePrevoDexEntry
+	text_far _SpriguinDexEntry
 	text_end ; (UNF)
 
 DoduoDexEntry:
