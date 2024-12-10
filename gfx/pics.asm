@@ -65,7 +65,7 @@ CorupcakePicBack::    INCBIN "gfx/pokemon/back/corupcakeb.pic"
 SECTION "Pics 2", ROMX
 
 GargoylePicFront::    INCBIN "gfx/pokemon/front/gargoyle.pic" ; (CAP)
-GargoylePicBack::     INCBIN "gfx/pokemon/front/gargoyleb.pic"
+GargoylePicBack::     INCBIN "gfx/pokemon/back/gargoyleb.pic"
 GrowlithePicFront::   INCBIN "gfx/pokemon/front/growlithe.pic"
 GrowlithePicBack::    INCBIN "gfx/pokemon/back/growlitheb.pic"
 OnixPicFront::        INCBIN "gfx/pokemon/front/onix.pic"
