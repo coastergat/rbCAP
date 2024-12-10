@@ -55,7 +55,7 @@ MonsterNames::
 	db "ELECTABUZZ"
 	db "MAGNETON@@"
 	db "KOFFING@@@"
-	db "PHANTOM@@@" ; (CAP)
+	db "PINEGUIN@@" ; (CAP)
 	db "MANKEY@@@@"
 	db "SEEL@@@@@@"
 	db "DIGLETT@@@"
