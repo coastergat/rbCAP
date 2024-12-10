@@ -41,7 +41,11 @@ UncompressMonSprite::
 	cp MAROWAK + 1
 	ld a, BANK("Pics 4")
 	jr c, .GotBank
+	ld a, b
+	cp BELLSPROUT + 1
 	ld a, BANK("Pics 5")
+	jr c, .GotBank
+	ld a, BANK("Pics 7")
 .GotBank
 	jp UncompressSpriteData
 
