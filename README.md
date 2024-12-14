@@ -58,7 +58,7 @@ RBY CAP Council:
 RBY CAP Artists:
 - [zxgzxg](https://www.smogon.com/forums/members/zxgzxg.501316/) - Corupcake, Phantom, Mandrelec
 - [The Faz](https://www.smogon.com/forums/members/the-faz.375033/) - Gargoyle, RBY CAP logo
-- [Gaboswampert](https://www.smogon.com/forums/members/gaboswampert.566431/) - Pineguin
+- [Gaboswampert](https://www.smogon.com/forums/members/gaboswampert.566431/) - Spriguin, Pineguin
 - [Coop](https://github.com/coastergat) - Probosicle
 - [ChronoSariel](https://www.smogon.com/forums/members/chronosariel.693264/) - Sparophim
 - [RAALightning](https://www.smogon.com/forums/members/raalightning.530917/) - Original Phantom 
@@ -73,6 +73,8 @@ Special Thanks:
 - Pet Mods Staff - Approving RBY CAP
 - DuoM2 - Original RBY CAP
 - EVERYONE WHO HAS PARTICIPATED IN THE TIER AND SLATES!
+
+
 
 
 # Pokémon Red and Blue [![Build Status][ci-badge]][ci]
