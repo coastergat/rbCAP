@@ -11,7 +11,7 @@ Info for the CAPmons can be found on [the wiki](https://github.com/coastergat/rb
 # What's New?
 Of course, being called Create-a-Pokémon, RBY CAP adds quite a few new Pokémon to Gen 1.
 
-So far, there are seven finished CAPmons, all of which are featured in this ROM hack:
+So far, there are eight finished CAPmons, all of which are featured in this ROM hack:
 - [Corupcake](https://github.com/coastergat/rbCAP/wiki/Corupcake)
 - [Gargoyle](https://github.com/coastergat/rbCAP/wiki/Gargoyle)
 - [Phantom](https://github.com/coastergat/rbCAP/wiki/Phantom)
@@ -19,6 +19,7 @@ So far, there are seven finished CAPmons, all of which are featured in this ROM 
 - [Spriguin](https://github.com/coastergat/rbCAP/wiki/Spriguin)
 - [Pineguin](https://github.com/coastergat/rbCAP/wiki/Pineguin)
 - [Probosicle](https://github.com/coastergat/rbCAP/wiki/Probosicle)
+- [Spariel](https://github.com/coastergat/rbCAP/wiki/Spariel)
 - [Sparophim](https://github.com/coastergat/rbCAP/wiki/Sparophim)
 <br/>
 
@@ -49,7 +50,7 @@ Extra Features:
 
 # Credits
 
-ROM hack made by [Coop](https://github.com/coastergat)
+ROM hack made by [coastergat](https://github.com/coastergat)
 
 RBY CAP Council: 
 - [gastlies](https://www.smogon.com/forums/members/gastlies.540559/)
@@ -59,8 +60,8 @@ RBY CAP Artists:
 - [zxgzxg](https://www.smogon.com/forums/members/zxgzxg.501316/) - Corupcake, Phantom, Mandrelec
 - [The Faz](https://www.smogon.com/forums/members/the-faz.375033/) - Gargoyle, RBY CAP logo
 - [Gaboswampert](https://www.smogon.com/forums/members/gaboswampert.566431/) - Spriguin, Pineguin
-- [Coop](https://github.com/coastergat) - Probosicle
-- [ChronoSariel](https://www.smogon.com/forums/members/chronosariel.693264/) - Sparophim
+- [coastergat](https://github.com/coastergat) - Probosicle
+- [ChronoSariel](https://www.smogon.com/forums/members/chronosariel.693264/) - Spariel, Sparophim
 - [RAALightning](https://www.smogon.com/forums/members/raalightning.530917/) - Original Phantom 
 
 RBY CAP Dragon Heaven:
