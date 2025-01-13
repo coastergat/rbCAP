@@ -1,4 +1,4 @@
-	db DEX_PINEGUIN ; pokedex id
+	db DEX_SPARIEL ; pokedex id
 
 	db 120,  70,  40,  80,  95
 	;   hp  atk  def  spd  spc
