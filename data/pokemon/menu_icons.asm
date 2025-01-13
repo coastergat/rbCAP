@@ -77,7 +77,7 @@ MonPartyData:
 	nybble ICON_MON       ; Geodude
 	nybble ICON_MON       ; Graveler
 	nybble ICON_MON       ; Golem
-	nybble ICON_BIRD      ; PinePrevo (UNF)
+	nybble ICON_BIRD      ; Spriguin (CAP)
 	nybble ICON_BIRD      ; Pineguin (CAP)
 	nybble ICON_QUADRUPED ; Ponyta
 	nybble ICON_QUADRUPED ; Rapidash
@@ -150,7 +150,7 @@ MonPartyData:
 	nybble ICON_HELIX     ; Kabutops
 	nybble ICON_BIRD      ; Aerodactyl
 	nybble ICON_MON       ; Snorlax
-	nybble ICON_BIRD      ; PrevoSparo (UNF)
+	nybble ICON_BIRD      ; Spariel (CAP)
 	nybble ICON_BIRD      ; Sparophim (CAP)
 	nybble ICON_BIRD      ; Articuno
 	nybble ICON_BIRD      ; Zapdos
