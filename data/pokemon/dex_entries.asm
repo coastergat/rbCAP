@@ -61,7 +61,7 @@ PokedexEntryPointers:
 	dw DiglettDexEntry
 	dw TaurosDexEntry
 	dw ProbosicleDexEntry ; (CAP)
-	dw PrevoSparoDexEntry ; (UNF)
+	dw SparielDexEntry ; (UNF)
 	dw MissingNoDexEntry
 	dw FarfetchdDexEntry
 	dw VenonatDexEntry
