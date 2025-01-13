@@ -61,7 +61,7 @@ MonsterNames::
 	db "DIGLETT@@@"
 	db "TAUROS@@@@"
 	db "PROBOSICLE" ; (CAP)
-	db "PREVOSPARO" ; (UNF)
+	db "SPARIEL@@@" ; (UNF)
 	db "MISSINGNO."
 	db "FARFETCH'D"
 	db "VENONAT@@@"
