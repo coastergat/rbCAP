@@ -68,7 +68,7 @@
 	const DIGLETT            ; $3B
 	const TAUROS             ; $3C
 	const PROBOSICLE         ; $3D (CAP)
-	const PREVOSPARO         ; $3E (CAP)
+	const SPARIEL            ; $3E (CAP)
 	const_skip               ; $3F
 	const FARFETCHD          ; $40
 	const VENONAT            ; $41
