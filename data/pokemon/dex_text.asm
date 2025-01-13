@@ -608,7 +608,7 @@ _ProbosicleDexEntry::
 	next "enter its turf" ; (Lengthened to fit) (CAP)
 	dex
 
-_PrevoSparoDexEntry::
+_SparielDexEntry::
 	text "Fiercely"
 	next "territorial,"
 	next "PROBOSICLE will"
