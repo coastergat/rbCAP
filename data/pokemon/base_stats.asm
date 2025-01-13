@@ -77,7 +77,7 @@ INCLUDE "data/pokemon/base_stats/tentacruel.asm"
 INCLUDE "data/pokemon/base_stats/geodude.asm"
 INCLUDE "data/pokemon/base_stats/graveler.asm"
 INCLUDE "data/pokemon/base_stats/golem.asm"
-INCLUDE "data/pokemon/base_stats/spriguin.asm" ; (UNF)
+INCLUDE "data/pokemon/base_stats/spriguin.asm" ; (CAP)
 INCLUDE "data/pokemon/base_stats/pineguin.asm" ; (CAP)
 INCLUDE "data/pokemon/base_stats/ponyta.asm"
 INCLUDE "data/pokemon/base_stats/rapidash.asm"
@@ -150,7 +150,7 @@ INCLUDE "data/pokemon/base_stats/kabuto.asm"
 INCLUDE "data/pokemon/base_stats/kabutops.asm"
 INCLUDE "data/pokemon/base_stats/aerodactyl.asm"
 INCLUDE "data/pokemon/base_stats/snorlax.asm"
-INCLUDE "data/pokemon/base_stats/prevosparo.asm" ; (UNF)
+INCLUDE "data/pokemon/base_stats/spariel.asm" ; (CAP)
 INCLUDE "data/pokemon/base_stats/sparophim.asm" ; (CAP)
 INCLUDE "data/pokemon/base_stats/articuno.asm"
 INCLUDE "data/pokemon/base_stats/zapdos.asm"
