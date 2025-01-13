@@ -124,8 +124,8 @@ TaurosPicFront::      INCBIN "gfx/pokemon/front/tauros.pic"
 TaurosPicBack::       INCBIN "gfx/pokemon/back/taurosb.pic"
 ProbosiclePicFront::  INCBIN "gfx/pokemon/front/probosicle.pic" ; (CAP)
 ProbosiclePicBack::   INCBIN "gfx/pokemon/back/probosicleb.pic"
-PrevosparoPicFront::  INCBIN "gfx/pokemon/front/prevosparo.pic" ; (CAP)
-PrevosparoPicBack::   INCBIN "gfx/pokemon/back/prevosparob.pic"
+SparielPicFront::     INCBIN "gfx/pokemon/front/spariel.pic" ; (CAP)
+SparielPicBack::      INCBIN "gfx/pokemon/back/sparielb.pic"
 FarfetchdPicFront::   INCBIN "gfx/pokemon/front/farfetchd.pic"
 FarfetchdPicBack::    INCBIN "gfx/pokemon/back/farfetchdb.pic"
 VenonatPicFront::     INCBIN "gfx/pokemon/front/venonat.pic"
