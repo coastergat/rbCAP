@@ -71,7 +71,7 @@ EvosMovesPointerTable:
 	dw DiglettEvosMoves
 	dw TaurosEvosMoves
 	dw ProbosicleEvosMoves ; (CAP)
-	dw PrevoSparoEvosMoves ; (UNF)
+	dw SparielEvosMoves ; (UNF)
 	dw MissingNo3FEvosMoves
 	dw FarfetchdEvosMoves
 	dw VenonatEvosMoves
@@ -920,7 +920,7 @@ ProbosicleEvosMoves:
 	db 54, HAZE
 	db 0 ; (CAP)
 
-PrevoSparoEvosMoves:
+SparielEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
