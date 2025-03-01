@@ -1,9 +1,9 @@
 	db DEX_TANGELA ; pokedex id
 
-	db  65,  55, 115,  60, 100
+	db  70,  70, 110,  40, 105
 	;   hp  atk  def  spd  spc
 
-	db GRASS, GRASS ; type
+	db NORMAL, PSYCHIC_TYPE ; type
 	db 45 ; catch rate
 	db 166 ; base exp
 
@@ -14,10 +14,13 @@
 	db GROWTH_MEDIUM_FAST ; growth rate
 
 	; tm/hm learnset
-	tmhm SWORDS_DANCE, TOXIC,        BODY_SLAM,    TAKE_DOWN,    DOUBLE_EDGE,  \
-	     HYPER_BEAM,   RAGE,         MEGA_DRAIN,   SOLARBEAM,    MIMIC,        \
-	     DOUBLE_TEAM,  BIDE,         SKULL_BASH,   REST,         SUBSTITUTE,   \
-	     CUT
+	tmhm RAZOR_WIND,   SWORDS_DANCE, WHIRLWIND,    TOXIC,        BODY_SLAM,    \
+	     TAKE_DOWN,    DOUBLE_EDGE,  HYPER_BEAM,   PAY_DAY,      COUNTER,      \
+	     SEISMIC_TOSS, RAGE,         SOLARBEAM,    THUNDERBOLT,  EARTHQUAKE,   \
+             FISSURE,      PSYCHIC_M,    TELEPORT,     MIMIC,        DOUBLE_TEAM,  \
+             REFLECT,      BIDE,         METRONOME,    SELFDESTRUCT, EGG_BOMB,     \
+             SWIFT,        SKY_ATTACK,   REST,         EXPLOSION,    TRI_ATTACK,   \
+	     SUBSTITUTE,   FLY,          STRENGTH,     FLASH
 	; end
 
 	db 0 ; padding
