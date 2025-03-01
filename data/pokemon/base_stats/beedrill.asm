@@ -1,9 +1,9 @@
 	db DEX_BEEDRILL ; pokedex id
 
-	db  65,  80,  40,  75,  45
+	db  40,  85,  65,  85,  30
 	;   hp  atk  def  spd  spc
 
-	db BUG, POISON ; type
+	db BUG, BUG ; type
 	db 45 ; catch rate
 	db 159 ; base exp
 
@@ -14,10 +14,11 @@
 	db GROWTH_MEDIUM_FAST ; growth rate
 
 	; tm/hm learnset
-	tmhm SWORDS_DANCE, TOXIC,        TAKE_DOWN,    DOUBLE_EDGE,  HYPER_BEAM,   \
+	tmhm RAZOR_WIND,   SWORDS_DANCE, TOXIC,        HORN_DRILL,   TAKE_DOWN,    \
+	     DOUBLE_EDGE,  HYPER_BEAM,   SUBMISSION,   COUNTER,      SEISMIC_TOSS, \
 	     RAGE,         MEGA_DRAIN,   MIMIC,        DOUBLE_TEAM,  REFLECT,      \
-	     BIDE,         SWIFT,        SKULL_BASH,   REST,         SUBSTITUTE,   \
-	     CUT
+             BIDE,         SWIFT,        SKULL_BASH,   REST,         SUBSTITUTE,   \
+	     CUT,          FLY,          STRENGTH
 	; end
 
 	db 0 ; padding
